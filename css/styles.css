@@ -4,5 +4,5 @@ h2.introduction {
 }
 p.introduction {
     font-style: oblique;
-    border-color: blueviolet;
+    background-color: blueviolet;
 }
