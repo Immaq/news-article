@@ -6,3 +6,7 @@ p.introduction {
     font-style: oblique;
     background-color: blueviolet;
 }
+img.introduction {
+    background: scroll;
+    background-color: crimson;
+}
