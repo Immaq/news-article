@@ -1,0 +1,8 @@
+h2.introduction {
+    font-style: italic;
+    background-color: bisque;
+}
+p.introduction {
+    font-style: oblique;
+    border-color: blueviolet;
+}
